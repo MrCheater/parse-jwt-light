@@ -1,2 +1,2 @@
 # parse-jwt-light
-JWT Reader
+JWT Parser
